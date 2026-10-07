@@ -1,0 +1,12 @@
+Project Name:Sa bank
+
+
+
+
+
+1.create local repository
+2.create GitHub repository 
+3.create project in GitHub
+4.create issue in the project
+5.create SDLC diagram for the project
+6.create SRS for the project
